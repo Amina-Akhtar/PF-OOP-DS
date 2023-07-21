@@ -1,2 +1,2 @@
 # PF-and-OOP
-The folder contains some basic and brainstorming questions related to programming fundamnentala and object oritented programming focuing majorly on the efficient coding.
+The folder contains some basic and brainstorming questions related to programming fundamnentals and object oritented programming focusing majorly on the efficient coding. enough for detalied understanding.
